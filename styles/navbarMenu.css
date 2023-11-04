@@ -1,0 +1,24 @@
+.contenedor-principal{
+    display: flex;
+    background-color: aquamarine;
+    width: 100%;
+    border: 2px solid;
+    border-color: black;
+}
+.cont-nombre{
+    font-size: 30px;
+    margin-left: 100px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.cont-page{
+    font-size: 30px;
+    margin-left: 140px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.nav-list{
+    font-size: 25px;
+    margin-left: 140px;
+    padding-top: 10px;
+    list-style: none;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}

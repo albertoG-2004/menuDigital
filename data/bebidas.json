@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "nombre": "Coca-Cola",
+        "tamaño": "500 ml",
+        "precio": 20
+    },
+    {
+        "id": 2,
+        "nombre": "Sangría",
+        "tamaño": "600 ml",
+        "precio": 20
+    },
+    {
+        "id": 3,
+        "nombre": "XXX Laguer",
+        "tamaño": "Cuartito",
+        "precio": 32
+    },
+    {
+        "id": 4,
+        "nombre": "Corona Ultra",
+        "tamaño": "Caguama",
+        "precio": 38
+    },
+    {
+        "id": 5,
+        "nombre": "Agua de naranja",
+        "tamaño": "Jarra",
+        "precio": 80
+    },
+    {
+        "id": 6,
+        "nombre": "Agua de limon",
+        "tamaño": "Jarra",
+        "precio": 80
+    }
+]

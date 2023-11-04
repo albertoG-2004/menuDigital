@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "nombre": "Carne tartara",
+        "tamaño": "Orden",
+        "precio": 80
+    },
+    {
+        "id": 2,
+        "nombre": "Camarones al mojo de ajo",
+        "tamaño": "Orden",
+        "precio": 110
+    },
+    {
+        "id": 3,
+        "nombre": "Camarones aguachile",
+        "tamaño": "Orden",
+        "precio": 90
+    },
+    {
+        "id": 4,
+        "nombre": "Costillas de cerdo",
+        "tamaño": "Orden",
+        "precio": 100
+    },
+    {
+        "id": 5,
+        "nombre": "Camarones a la diabla",
+        "tamaño": "Orden",
+        "precio": 120
+    },
+    {
+        "id": 6,
+        "nombre": "Carne tartara",
+        "tamaño": "Orden",
+        "precio": 80
+    }
+]

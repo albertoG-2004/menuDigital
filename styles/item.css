@@ -1,0 +1,37 @@
+.item-list{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+}
+.item-box{
+    background-color: #c8cbc8;
+    margin: 10px;
+    padding: 20px;
+    width: 130px;
+    border-radius: 5px;
+    border: 1px solid #dddddd;
+}
+.item-add-btn{
+    background-color: #5cb85c;
+    border-radius: 5px;
+    color: #fff;
+    border: none;
+    font-size: 12px;
+    cursor: pointer;
+    height: 20px;
+}
+.item-quantity{
+    color: #fff;
+    background-color: #f0ad4e;
+    display: flex;
+    justify-content: center;
+    border-radius: 20px;
+    max-width: 30px;
+    position: relative;
+    left: 40px;
+}
+
+.item-price{
+    color: gray;
+}
